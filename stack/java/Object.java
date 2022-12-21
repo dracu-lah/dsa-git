@@ -15,7 +15,7 @@ public class Object {
 			 case 2:s.Pop();break;
 			 case 3:s.Peep();break;
 			 case 4:s.Display();break;
-			 case 5:System.out.println("Program terminated");
+			 case 5:System.out.println("Program terminated!");
 				 	System.exit(0);
 			 default:System.out.println("Wrong Input");break;
 			 
